@@ -1,0 +1,28 @@
+name: edledermanphoto
+favicon: null
+layout_spectrum: 0.05177083192393184
+typography_spectrum: 0.021557981614023447
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7137239689473063
+  lightness: 0.712883000029251
+  saturation: 0.5705652514006943
+  rhythmicContrast: 0.9802623423747718
+purpose: []
